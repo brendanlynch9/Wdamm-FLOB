@@ -18,6 +18,15 @@
 - Figshare 404’d DOIs  
 
 
+publications can be foudn here with DOI's
+The UFT-F Spectral Resolution of the Tamagawa Number Conjecture: A Unified Solution to the Clay Mathematics Institute Millennium Prize Problems
+https://zenodo.org/records/17566371
+The UFT-F Spectral Framework: Empirical Validation of the Anti-Collision Identity (ACI) via Computational Collapse
+https://zenodo.org/records/17583962
+UFT-F Spectral Framework: Resolutions of Gödel's Incompleteness, Informational Cosmology Simulations, and AGI Synthesis
+https://zenodo.org/records/17592910
+The Spectral Necessity of Twin Primes: An Unconditional Resolution via Operator Stability and Besicovitch Forcing
+https://zenodo.org/records/17622862
 
 
 *"This is not about being smart.
