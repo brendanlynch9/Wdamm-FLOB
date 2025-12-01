@@ -27,7 +27,18 @@ UFT-F Spectral Framework: Resolutions of Gödel's Incompleteness, Informational 
 https://zenodo.org/records/17592910
 The Spectral Necessity of Twin Primes: An Unconditional Resolution via Operator Stability and Besicovitch Forcing
 https://zenodo.org/records/17622862
-
+Qualia as Perceptual Waveforms Derived from Informational Units in the UFT-F Framework
+https://zenodo.org/records/17624288
+Axiomatic Resolution of the Three-Body Problem via the Temporal Anti-Collision Constraint in the UFT-F Framework
+https://zenodo.org/records/17716751
+Unconditional Analytical Closure of the UFT-FModularity Constant cUFT-F (Within the UFT-F Formal System)
+https://zenodo.org/records/17728005
+Topological Coulomb Bypass (TCB) & UFT-F Spectral Closure A unified analytic, topological and computational manuscript
+https://zenodo.org/records/17744563
+Embedding E₈ into G₂₄: Spectral Closure, ACI, and an Erdős Graph Perspective
+https://zenodo.org/records/17757183
+Unconditional Axiomatic Closure of UFT-F: The E8/K3 Synthesis Derivation of the Modularity Constant from Topological Invariants
+https://zenodo.org/records/17764131
 
 *"This is not about being smart.
 This is about being kind.
